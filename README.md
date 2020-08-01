@@ -2,12 +2,12 @@
 
 ## About Set
 
-It is a custom set class in JavaScript similar to Set in es2015. It has total of 7 methods, Description of every method is underfollowed.
+It is a custom set class in JavaScript similar to Set in es2015. It has total 7 methods, Description of every method is underfollowed.
 
 ## Methods
 
 * add() - Adds an element to the set.
-* has() - Checks weather a particular element is exists or not in set.
+* has() - Checks whether a particular element exists or not in set.
 * values() - Returns all the values on the set.
 * remove() - Removes an element from the set.
 * union() - Returns union of two sets.
