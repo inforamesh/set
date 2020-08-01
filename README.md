@@ -17,7 +17,6 @@ It is a custom set class in JavaScript similar to Set in es2015. It has total of
 ## Code
 
 ```
-
 /**
  * This is an implementation of custom set class.
  * @author Ramesh Kumar
@@ -149,5 +148,4 @@ console.log(set.values());
 console.log(set.union(set1));
 console.log(set.intersection(set1));
 console.log(set.difference(set1));
-
 ```
