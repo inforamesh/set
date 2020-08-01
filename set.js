@@ -1,3 +1,9 @@
+/**
+ * This is an implementation of custom set class.
+ * @author Ramesh Kumar
+ *
+ */
+
 class Set {
     
     /**
